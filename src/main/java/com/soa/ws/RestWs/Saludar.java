@@ -1,6 +1,6 @@
 package com.soa.ws.RestWs;
 
-public class Saludar{
+public class  Saludar{
 
     private final long id;
     private final String nombre;
